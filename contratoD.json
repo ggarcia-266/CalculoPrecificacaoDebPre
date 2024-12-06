@@ -1,0 +1,30 @@
+{
+    "contract": "D",
+	"emission_price": 2000,
+    "start_date": "2015-08-17",
+    "index": "PRE",
+    "spread": 0.12,
+    "schedules": [{
+            "due_date": "2018-08-15",
+            "amount": 0.1
+        }, {
+            "due_date": "2019-08-15",
+            "amount": 0.1
+        }, {
+            "due_date": "2020-08-17",
+            "amount": 0.1
+        }, {
+            "due_date": "2021-02-17",
+            "amount": 0.1
+        }, {
+            "due_date": "2021-08-16",
+            "amount": 0.1
+        }, {
+            "due_date": "2022-02-15",
+            "amount": 0.1
+        }, {
+            "due_date": "2022-08-15",
+            "amount": 0.4
+        }
+    ]
+}

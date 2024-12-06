@@ -1,0 +1,12 @@
+{
+    "contract": "A",
+	"emission_price": 1000,
+	"start_date":"2018-01-02",
+    "index": "PRE",
+    "spread": 0.05,
+    "schedules": [{
+            "due_date": "2025-08-20",
+            "amount": 1
+        }
+    ]
+}
